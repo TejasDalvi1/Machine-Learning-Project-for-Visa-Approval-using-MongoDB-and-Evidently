@@ -13,7 +13,7 @@
 * Use the model to recommend whether an applicant's visa should be certified or denied based on influential criteria.
 ===============================================================================
 
-## Tech stack (libraries and tools):
+## Tech stack (libraries and tools) :
         (1)Python
         (2)scikit-learn
         (3)Mongo DB
