@@ -63,7 +63,6 @@ async def index(request: Request):
     return templates.TemplateResponse(
             "usvisa.html",{"request": request, "context": "Rendering"})
 
-
 @app.get("/train")
 async def trainRouteClient():
     try:
