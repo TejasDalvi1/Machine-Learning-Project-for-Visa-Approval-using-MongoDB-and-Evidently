@@ -53,8 +53,7 @@ Here, we'll (A) Build docker image of the source code,
             (C) Launch EC2,
             (D) Pull image from ECR in EC2,
             (E) Launch the docker image in EC2.
-
-Follow the steps given below.         
+### Follow the steps given below.         
 (1) Login to AWS console.
 (2) Create IAM user (with following policies)
     (a) AmazonEC2ContainerRegistryFullAccess
